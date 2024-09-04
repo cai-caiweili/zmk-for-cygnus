@@ -7,7 +7,7 @@
 #include "cygnus_layout.dtsi"
 / {
     chosen {
-        zmk,kscan = &mock_kscan;
+        zmk,kscan = &kscan0;
         zephyr,display = &oled;
     };
 
