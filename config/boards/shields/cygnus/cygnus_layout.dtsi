@@ -1,7 +1,7 @@
 #include <physical_layouts.dtsi>
 / {
     chosen {
-        zmk,physical-layout = &default_layout;
+        zmk,physical-layout = &cygnus;
     };
 
     	cygnus: cygnus {
